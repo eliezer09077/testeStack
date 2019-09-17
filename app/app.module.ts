@@ -12,7 +12,7 @@ import { TabsPage } from '../pages/tabs/tabs';
   declarations: [
     MyApp,
     AboutPage,
-    ContactPage,
+    ContactPage, 
     HomePage,
     TabsPage
   ],
